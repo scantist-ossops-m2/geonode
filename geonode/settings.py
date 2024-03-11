@@ -2224,7 +2224,7 @@ METADATA_STORERS = [
 List of modules that implement the deletion rules for a user
 """
 USER_DELETION_RULES = [
-    "geonode.people.utils.user_has_resources"
+    # "geonode.people.utils.user_has_resources"
     # ,"geonode.people.utils.user_is_manager"
 ]
 
